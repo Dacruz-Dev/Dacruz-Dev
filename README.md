@@ -21,6 +21,7 @@ Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por te
     </a>
 </p>
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
