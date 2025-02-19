@@ -43,8 +43,8 @@ Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por te
 
 <img 
   align="left" 
-  alt="c" 
-  title="c"
+  alt="C" 
+  title="C"
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -57,6 +57,14 @@ Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por te
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
+<img 
+  align="left" 
+  alt="Postgresql" 
+  title="Postgresql"
+  width="30px" 
+  style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
           
 
           
