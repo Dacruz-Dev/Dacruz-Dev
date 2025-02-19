@@ -37,7 +37,7 @@ Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por te
   title="c"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
   align="left" 
@@ -45,7 +45,7 @@ Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por te
   title="Mysql"
   width="30px" 
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
           
 
