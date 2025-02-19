@@ -4,6 +4,22 @@
 
 Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por tecnologia. Meu interesse na área começou em 2018, quando fiz um curso de informática e descobri o que uma máquina pode fazer com apenas algumas linhas de código. Desde então, sigo fascinado pelo poder da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAAT, sempre buscando aprender e compartilhar conhecimento. 🚀
 
+  </a> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Dacruz-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Dacruz-Dev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Dacruz-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 ---
 ### 🤖 Linguagens e Tecnologias
 
