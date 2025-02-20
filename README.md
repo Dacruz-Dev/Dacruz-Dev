@@ -4,7 +4,7 @@
 
 Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por tecnologia. Meu interesse na área começou em 2018, quando fiz um curso de informática e descobri o que uma máquina pode fazer com apenas algumas linhas de código. Desde então, sigo fascinado pelo poder da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAAT, sempre buscando aprender e compartilhar conhecimento. 🚀
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dacruzzx_)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dacruzzx_?igsh=MWczZWJ6cXVrd2NtNQ==)
   </a> 
     <a href="https://github.com/Dacruz-Dev?tab=repositories&sort=stargazers">
         <img 
