@@ -7,25 +7,19 @@ Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por te
 <div> 
 
 <a href="https://instagram.com/dacruzzx_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-   <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   </a>
-  
-  </a> 
-    <a href="https://github.com/Dacruz-Dev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Dacruz-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Dacruz-Dev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Dacruz-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
+<a href="https://github.com/Dacruz-Dev?tab=repositories&sort=stargazers">
+<img 
+     alt="Total de estrelas" 
+     title="Total de estrelas GitHub" 
+    src="https://custom-icon-badges.demolab.com/github/stars/Dacruz-Dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+/>
+<a href="https://github.com/Dacruz-Dev?tab=followers">
+<img 
+    alt="Seguidores" 
+    title="Me siga no GitHub" 
+    src="https://custom-icon-badges.demolab.com/github/followers/Dacruz-Dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+/>
 </p>
   
 </div>
