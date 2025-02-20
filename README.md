@@ -111,7 +111,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dacruz-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
