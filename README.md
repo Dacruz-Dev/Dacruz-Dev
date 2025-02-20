@@ -4,6 +4,8 @@
 
 Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por tecnologia. Meu interesse na área começou em 2018, quando fiz um curso de informática e descobri o que uma máquina pode fazer com apenas algumas linhas de código. Desde então, sigo fascinado pelo poder da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFAAT, sempre buscando aprender e compartilhar conhecimento. 🚀
 
+<div> 
+
 <a href="https://instagram.com/dacruzzx_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
    <a href="https://www.linkedin.com/in/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -25,6 +27,8 @@ Me chamo João, tenho 20 anos, sou natural de Atibaia-SP e sou apaixonado por te
         />
     </a>
 </p>
+  
+</div>
 
 ---
 
